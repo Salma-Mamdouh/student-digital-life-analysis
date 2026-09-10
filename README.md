@@ -13,6 +13,11 @@ This project explores a student dataset containing information about:
 - Motivation and caffeine intake
 - Final exam performance
 - Demographic and lifestyle information
+ ## 📚 Dataset
+
+The dataset was obtained from a public Kaggle competition.
+
+Dataset source: [Kaggle](([https://www.kaggle.com/datasets/neurocipher/digital-distraction-vs-academic-performance]))
 
 The analysis focuses on finding patterns and relationships within the data rather than building a predictive machine learning model.
 
